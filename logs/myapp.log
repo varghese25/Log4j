@@ -1,0 +1,17 @@
+2024-07-17 16:19:03,147 - com.app.varghese.Test [processData] -(TRACE) FROM TRACE METHOD 
+2024-07-17 16:19:03,159 - com.app.varghese.Test [processData] -(DEBUG) FROM DEBUG METHOD 
+2024-07-17 16:19:03,161 - com.app.varghese.Test [processData] -(INFO) FROM INFO METHOD 
+2024-07-17 16:19:03,162 - com.app.varghese.Test [processData] -(WARN) FROM WARN METHOD 
+2024-07-17 16:19:03,163 - com.app.varghese.Test [processData] -(ERROR) FROM ERROR METHOD 
+2024-07-17 16:19:03,164 - com.app.varghese.Test [processData] -(FATAL) FROM FATAL METHOD 2024-07-17 16:35:21,461 - com.app.varghese.Test [processData] -(TRACE) FROM TRACE METHOD 
+2024-07-17 16:35:21,481 - com.app.varghese.Test [processData] -(DEBUG) FROM DEBUG METHOD 
+2024-07-17 16:35:21,485 - com.app.varghese.Test [processData] -(INFO) FROM INFO METHOD 
+2024-07-17 16:35:21,486 - com.app.varghese.Test [processData] -(WARN) FROM WARN METHOD 
+2024-07-17 16:35:21,488 - com.app.varghese.Test [processData] -(ERROR) FROM ERROR METHOD 
+2024-07-17 16:35:21,491 - com.app.varghese.Test [processData] -(FATAL) FROM FATAL METHOD 
+2024-07-17 16:35:21,485 - com.app.varghese.Test [processData] -(TRACE) FROM TRACE METHOD 
+2024-07-17 16:35:21,503 - com.app.varghese.Test [processData] -(DEBUG) FROM DEBUG METHOD 
+2024-07-17 16:35:21,504 - com.app.varghese.Test [processData] -(INFO) FROM INFO METHOD 
+2024-07-17 16:35:21,505 - com.app.varghese.Test [processData] -(WARN) FROM WARN METHOD 
+2024-07-17 16:35:21,506 - com.app.varghese.Test [processData] -(ERROR) FROM ERROR METHOD 
+2024-07-17 16:35:21,508 - com.app.varghese.Test [processData] -(FATAL) FROM FATAL METHOD 

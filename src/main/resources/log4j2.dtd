@@ -1,0 +1,8 @@
+<!ELEMENT Configuration (Appenders,Loggers)>
+<!ELEMENT Appenders (Console)>
+<!ELEMENT Console (File)>
+<!ELEMENT File (JDBC)>
+<!ELEMENT JDBC (SMTP)>
+<!ELEMENT SMTP (#PCDATA)>
+<!ELEMENT Loggers (#PCDATA|Root)*>
+<!ELEMENT Root EMPTY>
